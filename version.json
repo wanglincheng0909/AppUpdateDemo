@@ -1,6 +1,5 @@
 {
-  "versionCode": 2,          // 比当前应用版本号大（如当前是1，这里填2）
-  "版本名": "1.1.0",    // 展示给用户的版本名
-  "apkUrl": "https://raw.githubusercontent.com/wanglincheng0909/AppUpdateDemo/main/apk/app-release.apk"
-  // ↑ 后续上传APK后，替换为实际的Raw链接
+"版本代码"：2，//比当前应用版本号大（如当前是1，这里填2)"版本代码"：2,          // 比当前应用版本号大（如当前是1，这里填2）
+"版本名": "1.1.0",    // 展示给用户的版本名"版本名":"1.1.0，//展示给用户的版本名/AppUpdateDemo/main/apkapp-release。安装包"生的。githubusercontent.com/wanglincheng0909/AppUpdateDemo/main/apkapp-release。安装包"09090909/AppUpdateDemo/main/apk/app-release.安装包""apkUrl"："https://raw.githubusercontent.com/wanglincheng0909/AppUpdateDemo/main/apkapp-release.apk"0909/AppUpdateDemo/main/apkapp-release.apk"
+//↑后续上传APK后，替换为实际的Raw链接
 }

@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,          // 比当前应用版本号大（如当前是1，这里填2）
+  "版本名": "1.1.0",    // 展示给用户的版本名
+  "apkUrl": "https://raw.githubusercontent.com/你的GitHub用户名/AppUpdateDemo/main/apk/app-release.apk"
+  // ↑ 后续上传APK后，替换为实际的Raw链接
+}

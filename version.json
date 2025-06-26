@@ -1,6 +1,6 @@
 {
-  "版本代码": 2,          // 比当前应用版本号大（如当前是1，这里填2）
-  "版本名": "1.1.0",       // 展示给用户的版本名
-  "apkUrl": "https://raw.githubusercontent.com/wanglincheng0909/AppUpdateDemo/main/app-release.apk"
-  // ↑ 已替换为你提供的URL，注意检查APK是否在仓库根目录下
-}
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "updateContent": "1. 修复了若干bug\n2. 增加了新功能\n3. 优化了用户体验与UI界面",
+  "downloadUrl": "https://raw.githubusercontent.com/wanglincheng0909/AppUpdateDemo/main/app-release.apk"
+}    
